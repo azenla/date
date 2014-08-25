@@ -1,5 +1,5 @@
 name: date
-version: 0.1.0
+version: 0.1.1
 description: Complicated date parsing for Dart
 homepage: https://github.com/logangorence/date
 author: Logan Gorence <loganjohngorence@gmail.com>
